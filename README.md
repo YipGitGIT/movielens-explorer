@@ -13,7 +13,7 @@ This project combines a relational database layer and a graph-based relationship
 
 ## Dataset
 
-We use the MovieLens Latest Small dataset, which includes:
+I use the MovieLens Latest Small dataset, which includes:
 
 - movies
 - ratings
@@ -31,7 +31,7 @@ Core files:
 
 ### Relational Layer
 
-We use SQLite to store structured movie data.
+I use SQLite to store structured movie data.
 
 Main tables:
 
@@ -52,7 +52,7 @@ This layer supports:
 
 ### Graph Layer
 
-We model graph relationships using graph-based logic in Python.
+I model graph relationships using graph-based logic in Python.
 
 Main node/edge ideas:
 
